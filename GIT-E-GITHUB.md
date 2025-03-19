@@ -1,4 +1,4 @@
-eu criei esse repositório utilizando markdown no [Obsidian](https://obsidian.md/download) para estudo próprio ***(usei IA para ajudar a organizar pois nao domino essa linguagem de marcaçao)*, porem decidi disponibilizar para que seja usado por outros iniciantes, para que nao tenham que ficar horas lendo vários artigos e blogs como eu tive que fazer ,Segue abaixo meu bloco de estudos explicando passo a passo cada comando e conceito para que iniciantes possam estudar e compreender de forma obvia como o Git e o GitHub funcionam
+eu criei esse repositório utilizando markdown no [Obsidian](https://obsidian.md/download) para estudo próprio *(usei IA para ajudar a organizar pois nao domino essa linguagem de marcaçao)*, porem decidi disponibilizar para que seja usado por outros iniciantes, para que nao tenham que ficar horas lendo vários artigos e blogs como eu tive que fazer ,Segue abaixo meu bloco de estudos explicando passo a passo cada comando e conceito para que iniciantes possam estudar e compreender de forma obvia como o Git e o GitHub funcionam
 
 ---
 
@@ -356,14 +356,14 @@ _Fluxo básico:_
 
 ## Conclusão
 
-Dominar o Git é como aprender a andar de bicicleta – no começo, pode parecer difícil, mas depois que pega o jeito, você nunca mais esquece (e não vai cair tanto, esperamos)!  
-Com esses comandos básicos e avançados, você estará pronto para versionar seu código, colaborar com outros desenvolvedores e manter seu histórico de alterações em dia – sempre com um toque de humor para descontrair a jornada. Bons commits e sucesso na sua aventura com Git e GitHub!
+sinta-se a vontade pra fazer alteraçoes, quanto mais conhecimento adicionar aq melhor :)
 
 
 
 
 
 FONTES:
+
 
 - http://rogerdudler.github.io/git-guide/index.pt_BR.html?authuser=0
 
